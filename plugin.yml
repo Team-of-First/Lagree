@@ -1,0 +1,7 @@
+name: Lagree
+main: Lagree\Main
+version: 1.0.0
+author: Latte
+api: 
+- 3.0.0
+- 3.6.0
